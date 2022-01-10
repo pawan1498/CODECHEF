@@ -1,0 +1,1 @@
+{"name":"Local: guru","url":"/home/pawan-s/Documents/codechef/november/long_challenge/guru.cpp","tests":[{"id":1636877981608,"input":"3\n((?-?)-?)\n2\n2 2\n1 5\n(?-(?-?))\n2\n1 9\n4 8\n(?-(?+?))\n1\n1 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pawan-s/Documents/codechef/november/long_challenge/guru.cpp","group":"local","local":true}

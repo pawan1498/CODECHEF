@@ -1,0 +1,1 @@
+{"name":"Local: missing_sum","url":"/home/pawan-s/Documents/codechef/november/cook_off/missing_sum.cpp","tests":[{"id":1637555246372,"input":"3\n1\n2\n3","output":"1\n1 5\n1 4 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/pawan-s/Documents/codechef/november/cook_off/missing_sum.cpp","group":"local","local":true}
